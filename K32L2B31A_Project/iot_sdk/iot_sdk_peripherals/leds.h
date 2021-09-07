@@ -17,4 +17,14 @@ void encender_led_verde();
 
 void apagar_led_verde();
 
+/*enciende led rojo de tarjeta FRDM-K32L2B3*/
+
+void encender_led_rojo();
+
+/*apaga led rojo de tarjeta FRDM-K32L2B3*/
+
+void apagar_led_rojo();
+
 #endif /* IOT_SDK_PERIPHERALS_LEDS_H_ */
+
+
